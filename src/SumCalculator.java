@@ -3,6 +3,7 @@
  */
 public class SumCalculator {
     public static void main(String[] args) {
+        //This is a default value
         int sum = 0;
         //Putting a comment here!!!
         for (int i = 0; i < args.length; i++) {
