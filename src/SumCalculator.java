@@ -10,6 +10,7 @@ public class SumCalculator {
             String arg = args[i];
             sum += Integer.parseInt(args[i]);
         }
+        //Prints out the final sum
         System.out.println("Sum = " + sum);
     }
 }
